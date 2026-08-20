@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.imbrace.co">
-    <img alt="iMBrace" src="imbrace-logo.png" width="110">
+    <img alt="iMBrace" src="https://raw.githubusercontent.com/imbraceltd/.github/main/profile/imbrace-logo.png" width="110">
   </a>
 </p>
 

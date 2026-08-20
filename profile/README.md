@@ -73,11 +73,11 @@ A suite of focused products working as one governed system:
 
 | | Product | What it does |
 |:--:|---|---|
-| 💬 | **CommsIQ** | Omnichannel conversations across every customer touchpoint |
-| 📄 | **DocIQ** | Document intelligence, extraction, and understanding |
-| 📊 | **InsightsIQ** | Data boards and dynamic business intelligence |
-| 🔀 | **FlowOps** | DAG-based workflow automation |
-| 🧠 | **OntoCore** | The knowledge and ontology core |
+| 💬 | **CommsIQ** | Centralize every communication channel into one platform |
+| 📄 | **DocIQ** | Document AI — intelligent document processing |
+| 📊 | **InsightsIQ** | Data boards and business intelligence |
+| 🔀 | **FlowOps** | Automate work with pre-built workflows and templates |
+| 🧠 | **OntoCore** | Dynamic data management |
 | 🛡️ | **GovernCore** | Governance, security, and access control |
 
 Every component is open source and lives in its own repository — start from the

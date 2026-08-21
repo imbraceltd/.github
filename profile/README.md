@@ -1,14 +1,13 @@
 <p align="center">
   <a href="https://www.imbrace.co">
-    <img alt="iMBrace" src="https://raw.githubusercontent.com/imbraceltd/.github/main/profile/imbrace-logo.png" width="104">
+    <img alt="iMBrace – Open-Source Enterprise AI Operating System" src="https://raw.githubusercontent.com/imbraceltd/.github/main/profile/imbrace-banner.png" width="100%">
   </a>
 </p>
 
-<h1 align="center">iMBrace</h1>
+<h1 align="center">iMBrace – Open-Source Enterprise AI Operating System</h1>
 
 <p align="center">
-  <b>The Governed AI Operating System for real businesses —</b><br>
-  <sub>connecting operations, strategy, and action with <b>context</b>, <b>compliance</b>, and <b>confidence</b>.</sub>
+  <b>Transform fragmented knowledge into trusted insights, intelligent workflows, and practical action.</b>
 </p>
 
 <p align="center">
@@ -28,61 +27,36 @@
 <br>
 
 > [!NOTE]
-> ### iMBrace Community Edition is now open source
-> Build context-aware AI on **your own** infrastructure — with your knowledge, models, data, and
-> tools. **100% self-hosted. Zero external data sharing.** → **[Get started](https://github.com/imbraceltd/iMBrace)**
+> **iMBrace Community Edition is now open source.** Build context-aware AI on your own
+> infrastructure — with your knowledge, models, data, and tools. **100% self-hosted, zero
+> external data sharing.** → **[Get started](https://github.com/imbraceltd/iMBrace)**
 
-Welcome to the **iMBrace** organization 👋 — an AI-native workspace that turns disconnected
-data into dynamic business intelligence, on infrastructure you control.
+Designed to help teams transform fragmented knowledge into trusted insights, intelligent
+workflows, and practical action. **Community Edition** gives developers, startups, researchers,
+and technology teams a transparent foundation for building context-aware AI solutions using their
+preferred models, data, and tools. Connect your knowledge, build AI agents, and automate
+repeatable processes from day one.
 
 ---
 
-## Our vision
+## Key capabilities
 
-Enterprises should be able to build **context-aware AI** on **their own** knowledge, models,
-data, and tools — without shipping any of it to a third party. We're open-sourcing the core of
-the iMBrace platform so teams can self-host a governed AI operating system, keep full data
-sovereignty, and extend it however they need.
+- **Enterprise Knowledge & Document Intelligence (DocIQ)** — Ingest, explore, and organize
+  documents through Knowledge Drive and Knowledge Board, providing grounded context and visible
+  insights through Databoards.
+- **AI Agents & Insights (InsightIQ)** — Build context-aware AI agents that answer questions,
+  analyze information, and turn enterprise knowledge into practical insights.
+- **Workflow & Communication Automation (FlowOps & CommsIQ)** — Build repeatable workflows,
+  scheduled events, and AI-powered conversations across communication channels.
+- **Model Flexibility & MCP Support** — Work with multiple LLM providers and extend platform
+  capabilities through Model Context Protocol (MCP) connections.
+- **Seamless Self-Hosting** — Deploy iMBrace Community Edition in your own environment and
+  maintain control over your deployment.
+- **Enterprise-Scale AI** — Scale beyond Community Edition with hybrid RAG and SQL, agent
+  orchestration, enterprise access control, governance and auditability, multi-organization
+  management, AI Copilot, and professional support.
 
-## Why self-host iMBrace
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <br>🔒<br><br><b>Data Sovereignty</b><br>
-      <sub>Your data never leaves your own infrastructure.</sub><br><br>
-    </td>
-    <td align="center" width="25%">
-      <br>🔀<br><br><b>DAG Workflows</b><br>
-      <sub>Orchestrate complex automation as directed graphs.</sub><br><br>
-    </td>
-    <td align="center" width="25%">
-      <br>🔌<br><br><b>Native MCP Gateway</b><br>
-      <sub>Connect any tool through the Model Context Protocol.</sub><br><br>
-    </td>
-    <td align="center" width="25%">
-      <br>🧠<br><br><b>Multi-LLM Freedom</b><br>
-      <sub>Bring your own model — local or hosted, your choice.</sub><br><br>
-    </td>
-  </tr>
-</table>
-
-## What we build
-
-A suite of focused products working as one governed system:
-
-| | Product | What it does |
-|:--:|---|---|
-| 💬 | **CommsIQ** | Centralize every communication channel into one platform |
-| 📄 | **DocIQ** | Document AI — intelligent document processing |
-| 📊 | **InsightsIQ** | Data boards and business intelligence |
-| 🔀 | **FlowOps** | Automate work with pre-built workflows and templates |
-| 🧠 | **OntoCore** | Dynamic data management |
-| 🛡️ | **GovernCore** | Governance, security, and access control |
-
-Every component is open source and lives in its own repository — start from the
-**[Community Edition hub](https://github.com/imbraceltd/iMBrace)**, which explains how the
-pieces fit together and how to run the whole stack.
+---
 
 ## Get involved
 
@@ -110,6 +84,5 @@ use or contribute to a given file.
 ---
 
 <p align="center">
-  <sub>Let's build governed, self-hosted enterprise AI together.</sub><br>
   <sub>© 2024–present iMBrace, Inc. · <a href="https://www.imbrace.co">imbrace.co</a></sub>
 </p>

@@ -17,7 +17,7 @@ iMBrace turns fragmented enterprise knowledge into trusted insights, AI agents, 
 
 <p align="center">
   <a href="https://github.com/imbraceltd/iMBrace">
-    <img alt="iMBrace — from enterprise knowledge to AI-powered action" src="https://raw.githubusercontent.com/imbraceltd/.github/main/profile/imbrace-overview.png" width="100%">
+    <img alt="Automate work with AI-powered workflows — iMBrace FlowOps" src="https://raw.githubusercontent.com/imbraceltd/.github/main/profile/imbrace-workflow.png" width="100%">
   </a>
 </p>
 
